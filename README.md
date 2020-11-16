@@ -2,8 +2,6 @@
 
 > Clear cookies from the sites you visit with a single click.
 
-Clear all cookies from the page you are on with a single click
-
 ## How it works?
 
 The extension gets all the cookies created by the current domain
